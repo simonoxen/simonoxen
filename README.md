@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a neuroscience PhD candidate working on deep brain stimulation, medical imaging, connectomics, and image guided surgery.
+I'm a neuroscience PhD candidate working on deep brain stimulation, medical imaging, signal processing, connectomics, and image guided surgery.
 
 Here is where some of my projects come to life.
 
