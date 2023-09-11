@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm a neuroscience PhD candidate working on deep brain stimulation, medical imaging, signal processing, connectomics, and image guided surgery.
+I'm a last year neuroscience PhD candidate working on deep brain stimulation, medical imaging, signal processing, connectomics, and image guided surgery.
 
 Here is where some of my projects come to life.
 
 #### Web profiles
 
+- [LinkedIn](https://www.linkedin.com/in/simon-oxenford-104225158/)
 - [GoogleScholar](https://scholar.google.com/citations?user=UxmcCCEAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Simon-Oxenford)
-- [LinkedIn](https://www.linkedin.com/in/simon-oxenford-104225158/)
 
 <!--
 **simonoxen/simonoxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
