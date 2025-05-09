@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here is where some of my projects come to life.
+Here is where some of my PhD projects live.
+
+I'm currently a software engineer at TomTom.
 
 #### Web profiles
 
